@@ -1,29 +1,24 @@
 
-prof-a:
-    display_name: "Prof A"
+proftsai:
+    display_name: "Prof. Michael Tsai"
+    webpage: "http://www.csie.ntu.edu.tw/~hsinmu/"
+    image: img/people/proftsai.png
     role: faculty
+    bio: 蔡欣穆
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+#profx:
+#    display_name: "Professor X"
+#    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#    github: profx
+#    role: faculty
+#    image: /img/people/prof-x.png
+#    bio: Professor
 
 scott:
     display_name: "Scott Summers"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
-    image: /img/people/scott.png
+    image: img/people/scott.png
     bio: aka Cyclops
 
 wolverine:
@@ -36,7 +31,7 @@ storm:
     display_name: "Storm"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/storm.png
+    image: img/people/storm.png
 
 grad-a:
     display_name: "Grad A"

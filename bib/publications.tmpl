@@ -11,13 +11,28 @@
 				{%- set prev_year = entry.fields['year'] %}
 				{{ entry.fields['month']|monthname }}
 			</span>
+
+		</td>
+		<td>
+			<span class="venuetype">
+			{%- if entry|venue_type == "Conference" %}
+			<img src="img/bib_icon/conference.png" style="width:100px"/>
+			{%- elif entry|venue_type == "Journal" %}
+			<img src="img/bib_icon/journal.png" style="width:100px"/>
+			{%- elif entry|venue_type == "Book Chapter" %}
+			<img src="img/bib_icon/bookchapter.png" style="width:100px"/>
+			{%- elif entry|venue_type == "Workshop" %}
+			<img src="img/bib_icon/workshop.png" style="width:100px"/>
+			{%- else %}
+			{{ entry|venue_type -}}
+			{%- endif %}
+			</span><br/>
 		</td>
 		<td class="publication">
+			
 			<span class="pubtitle">
 				{%- set url = entry|main_url %}
 				{%- if url %}
-				<img src="img/pdficon_small.png" width="16"
-					height="16" alt="PDF" />
 				<a href="{{ url|escape }}">{{ entry|title }}</a>.
 				{%- else %}
 				{{ entry|title }}.
@@ -26,7 +41,7 @@
 			<span class="authors">
 				{{ entry.persons['author']|author_list }}.
 			</span><br />
-			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
+			<span class="venue" style="font-style: italic;">{{ entry|venue -}}</span>.
 			{%- if entry.fields['note'] %}
 			<span class="note">
 			{{ entry.fields['note']|escape }}.

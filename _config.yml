@@ -1,7 +1,8 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: Hsin-Mu Tsai's Website
+url: http://www.csie.ntu.edu.tw/
+#baseurl: /~hsinmu/site
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, bibble_env, README.md, Makefile, screenshot.png, code.md]
 
 # colorize code snippets with the pygments module
 highlighter: pygments
@@ -43,11 +44,15 @@ collections:
 navigation:
   - title: Home
     link: /
-  - title: People
-    link: /#people
+  #- title: People
+  #  link: /#people
   - title: Research
-    link: /research.html
+    link: research.html
   - title: Publications
-    link: /publications.html
-  - title: Code
-    link: /code.html
+    link: publications.html
+  - title: Teaching
+    link: http://www.csie.ntu.edu.tw/~hsinmu/courses/
+  - title: Service
+    link: service.html
+#  - title: Code
+#    link: /code.html
