@@ -25,7 +25,7 @@ role-tables:
 <div class="jumbotron"> 
     <!--<img src="img/people/proftsai.png" height=250 align="right"/>-->
    <img class="rounded-circle profile"          
-             src="img/people/proftsai2.jpg" style="float:right;height:200px;"/>
+             src="{{site.baseurl}}img/people/proftsai2.jpg" style="float:right;height:200px;"/>
 
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
 
@@ -85,7 +85,7 @@ role-tables:
     {% if numposts >= 1 %}
         <p>
             <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.baseurl }}/blog.html">Older posts&hellip;</a>
+            <a href="{{ site.baseurl }}blog.html">Older posts&hellip;</a>
         </p>
     {% endif %}
 </section>

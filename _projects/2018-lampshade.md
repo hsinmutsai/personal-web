@@ -8,9 +8,9 @@ description: |
 
 
 layout: project
-image: /img/project/lampshade.png
+image: img/project/lampshade.png
 last-updated: 2018-06-15
-image-link: /img/project/lampshade.png
+image-link: img/project/lampshade.png
 ---
 
 

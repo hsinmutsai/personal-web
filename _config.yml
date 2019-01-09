@@ -1,6 +1,6 @@
 name: Hsin-Mu Tsai's Website
-url: http://www.csie.ntu.edu.tw/
-#baseurl: /~hsinmu/site
+url: http://localhost:5000
+baseurl: /~hsinmu/site/
 
 exclude: [bibble, bibble_env, README.md, Makefile, screenshot.png, code.md]
 
@@ -33,7 +33,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+#base: ''
 
 # make pages for the _projects folder
 collections:
@@ -51,7 +51,7 @@ navigation:
   - title: Publications
     link: publications.html
   - title: Teaching
-    link: http://www.csie.ntu.edu.tw/~hsinmu/courses/
+    link: ../courses/
   - title: Service
     link: service.html
 #  - title: Code
