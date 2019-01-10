@@ -43,7 +43,7 @@
 			</span><br />
 			<span class="venue" style="font-style: italic;">{{ entry|venue -}}</span>.
 			{%- if entry.fields['note'] %}
-			<span class="note">
+			<br/><span class="note" style="font-weight: bold;">
 			{{ entry.fields['note']|escape }}.
 			</span>
 			{%- endif %}
