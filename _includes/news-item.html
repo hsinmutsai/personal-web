@@ -41,7 +41,7 @@
             </div>
             <div class="col-sm-2">
                 {% if post.image_link %}
-                    <a href="{{ post.image_link }}">{{ img }}</a>
+                    <a href="{{site.baseurl}}{{ post.image_link }}">{{ img }}</a>
                 {% else %}
                     {{ img }}
                 {% endif %}
