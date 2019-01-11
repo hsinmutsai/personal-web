@@ -29,7 +29,8 @@ role-tables:
 
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
 
-    Associate Professor, <br/> Computer Science and Information Engineering <br/>
+    <p>Associate Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
+    <p>Associate Director, Learning Technology,<br/> <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
     National Taiwan University
 
 
