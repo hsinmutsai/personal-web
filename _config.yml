@@ -51,7 +51,7 @@ navigation:
   - title: Publications
     link: publications.html
   - title: Teaching
-    link: ../courses/
+    link: teaching
   - title: Service
     link: service.html
 #  - title: Code

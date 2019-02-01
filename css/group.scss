@@ -45,11 +45,26 @@ a > .fa {
 
 /* Jumbotron */
 .jumbotron {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
     text-align: justify;
     padding-top: 1.5em;
     padding-bottom: 0.5em;
-    font-size: 125%
+    font-size: 125%;
+
+    h1 {
+    font-weight: 800;
+    }
+
+    a:link, a:visited {
+        color: black;
+    }
 }
+
+
 
 /* Group logo */
 #logo {
