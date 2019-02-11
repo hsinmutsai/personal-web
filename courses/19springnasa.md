@@ -3,7 +3,7 @@ layout: default
 title: 2019 Spring - CSIE 2311 and CSIE 1310 - Network Administration and System Administration (Lab)
 ---
 
-This is a course designed to train the students in the Department of Computer Science and Information Engineering to become part of the technical team to perform daily network and system maintenance tasks. See our [promotion document](../../files/courses/19springnasa/19springnasa_course_information.pdf) for more details.
+This is a course designed to train the students in the Department of Computer Science and Information Engineering to become part of the technical team to perform daily network and system maintenance tasks. See our [promotion document](../files/courses/19springnasa/19springnasa_course_information.pdf) for more details.
 
 ## News ##
 - Feb. 11 - Web site updated.
@@ -28,4 +28,4 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
  - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw)
 
 ## How to register for the course ##
-To qualify to register for the course, please complete and submit [hw0](../../files/courses/19springnasa/hw0.pdf) by Feb. 22. Please also remember to submit the [application form](https://goo.gl/forms/3ytAQfHwaHsUBAso2).
+To qualify to register for the course, please complete and submit [hw0](../files/courses/19springnasa/hw0.pdf) by Feb. 22. Please also remember to submit the [application form](https://goo.gl/forms/3ytAQfHwaHsUBAso2).
