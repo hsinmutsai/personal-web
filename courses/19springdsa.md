@@ -29,7 +29,7 @@ Students who wish to register for the course need to fill out an online applicat
 
 
 ## Course Materials (slides, homework, and solutions)
-They will be made available here after the semester ends.
+They will be made available here after the semester ends. Also, materials from the past years are available [here](https://www.csie.ntu.edu.tw/~hsinmu/courses/).
 Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to see the course materials.
 
 ## Links ##
