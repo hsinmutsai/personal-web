@@ -35,3 +35,4 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 ## Links ##
  - For most course activities and materials: [NTU COOL](https://cool.ntu.edu.tw)
  - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw)
+ - If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit).
