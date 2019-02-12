@@ -89,7 +89,7 @@ Note: I am currently migrating my personal web site and this is a work-in-progre
 
 
 <section>
-    <h2>Research Projects [work-in-progress] </h2>
+    <h2>Research Projects [updating] </h2>
     <div class="card-columns">
         {% comment %}
         Sort the projects by date, putting those without dates last
