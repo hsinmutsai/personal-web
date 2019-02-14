@@ -18,7 +18,7 @@ This is a required course for the undergraduate students in the Department of Co
 To be announced.
 
 ## Course Registration Policy ##
-We will accept registrations (加選) up to the **maximum allowed number of students of the classroom** (~100). If we cannot accommodate all students, we will allow registration in the given order:
+We will accept registrations (加選) up to the **maximum allowed number of students of the classroom** (~150). If we cannot accommodate all students, we will allow registration in the given order:
  - 資訊工程系大一雙班
  - 資訊工程系大四(及以上) > 大三 > 大二 > 大一(單班)
  - 資訊學群研究所
