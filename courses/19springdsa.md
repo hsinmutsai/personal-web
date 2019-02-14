@@ -10,7 +10,7 @@ This is a required course for the undergraduate students in the Department of Co
 ## Course Information ##
 
   - Class time: Tuesdays 14:20-17:20
-  - Classroom: CSIE Building 104
+  - Classroom: CSIE Building __103__ (Note we have moved!)
   - Textbook: [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Third-Thomas-Cormen/dp/0262033844), Third Edition, Cormen et al., the MIT Press
 
 ## The Teaching Team ##
