@@ -12,11 +12,13 @@ title: Service
 * Poster and Demo Co-chair, IEEE Vehicular Networking Conference (VNC), 2014
 * Workshop Co-chair, ACM VLCS, 2014
 
-<h2>Conference TPC Member</h2>
+<h2>Select Conference TPC Member</h2>
 * TPC Member, IEEE INFOCOM, 2017-2019 (**Distinguished TPC Member, 2017-2018**)
 * External/Extended Review Committee Member, ACM MobiSys, 2015, 2018-2019
-* TPC Member, IEEE Vehicular Networking Conference (VNC), 2013
+* TPC Member, IEEE Vehicular Networking Conference (VNC), 2013-2016
 * TPC Member, IEEE Vehicular Technology Conference (VTC), 2016-fall, 2017-fall, 2018-spring, 2018-fall
+* TPC member, International Conference on Connected Vehicles and Expo (ICCVE), 2013
+
 
 <h2>Other Academic Services</h2>
 * Treasurer, Taipei Chapter, IEEE Vehicular Technology Society, 2016-2017
@@ -26,4 +28,5 @@ title: Service
 
 <h2> Select Talks </h2>
 * Keynote, "Elements of Visible Light Communication Research," ACM Workshop on Visible Light Communication Systems (VLCS), 2017 
+* Invited talk, "Vehicluar Visible Light Communications," APEC Cooperative Forum on Internet of Vehicles (invited talk), Shanghai, China, May 20, 2014
 
