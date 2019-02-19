@@ -15,7 +15,29 @@ This is a required course for the undergraduate students in the Department of Co
 
 ## The Teaching Team ##
 
-Teaching assistants
+Contact us via email at [dsa1@csie.ntu.edu.tw](mailto:dsa1.csie.ntu.edu.tw) (will be forwarded to the instructor and all TAs).
+
+Teaching Assistants:
+
+{:class="table"}
+| Name   | email          | office hour & place|
+|--------|----------------|-------------|
+| 曾千育 | b04902008@ntu.edu.tw | TBD   |
+| 江緯璿 | b04902077@ntu.edu.tw | TBD   |
+| 林品諺 | b04902092@ntu.edu.tw | TBD   |
+| 馬揚格 | b04902032@ntu.edu.tw | Mondays, 11-12, 紅沙發 |
+| 劉瀚聲 | b04902012@ntu.edu.tw | Thursdays, 14-15, 紅沙發 |
+| 劉俊緯 | b04902127@ntu.edu.tw | Tuesdays, 19:20-20:20, 217 |
+| 王行健 | b04902008@ntu.edu.tw | TBD   |
+| 楊舒瑄 | b04902007@ntu.edu.tw | Thursdays, 13-14, 紅沙發 |
+| 蘇多門 | b05902094@ntu.edu.tw | TBD   |
+| 謝譯霆 | b05902031@ntu.edu.tw | TBD   |
+| 楊皓丞 | howard41436@gmail.com| TBD   |
+| 吳崇維 | wayne4125@gmail.com | Tuesdays, 11-12, 紅沙發 |
+| 邱  譯 | b06902030@ntu.edu.tw | Mondays, 13-14, 紅沙發 |
+
+
+
 
 
 ## Course Registration Policy ##
@@ -37,5 +59,5 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 
 ## Links ##
  - For most course activities and materials: [NTU COOL](https://cool.ntu.edu.tw)
- - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw)
+ - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw). 
  - If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit) by Feb 19, 23:59.
