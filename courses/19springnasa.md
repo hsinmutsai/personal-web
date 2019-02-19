@@ -12,7 +12,7 @@ This is a course designed to train the students in the Department of Computer Sc
 
 ## Course Information ##
 
-  - Class time: Mondays 9:10-12:00
+  - Class time: Mondays 9:10-12:10
   - Classroom: CSIE Building 204
   
 ## The Teaching Team ##

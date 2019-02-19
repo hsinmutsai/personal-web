@@ -9,13 +9,14 @@ This is a required course for the undergraduate students in the Department of Co
 
 ## Course Information ##
 
-  - Class time: Tuesdays 14:20-17:20
+  - Class time: Tuesdays 13:20-16:20 (678)
   - Classroom: CSIE Building __103__ (Note we have moved!)
   - Textbook: [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Third-Thomas-Cormen/dp/0262033844), Third Edition, Cormen et al., the MIT Press
 
 ## The Teaching Team ##
 
-To be announced.
+Teaching assistants
+
 
 ## Course Registration Policy ##
 We will accept registrations (加選) up to the **maximum allowed number of students of the classroom** (~150). If we cannot accommodate all students, we will allow registration in the given order:
@@ -23,7 +24,9 @@ We will accept registrations (加選) up to the **maximum allowed number of stud
  - 資訊工程系大四(及以上) > 大三 > 大二 > 大一(單班)
  - 資訊學群研究所
  - 電機資訊學院其他學生
- - 其他學院
+ - 其他學院學生
+ - 外校學生: 台師大、台科大學生 (三校聯盟) >其他外校學生
+
 
 Students who wish to register for the course need to fill out an online application form, and will be processed according to the priority above. Those who get in will receive an email containing a registration code in the second week of the semester.
 
@@ -35,4 +38,4 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 ## Links ##
  - For most course activities and materials: [NTU COOL](https://cool.ntu.edu.tw)
  - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw)
- - If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit).
+ - If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit) by Feb 19, 23:59.
