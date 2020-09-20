@@ -29,7 +29,7 @@ role-tables:
 
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
 
-    <p>Associate Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
+    <p>Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
     <p>Associate Director, Learning Technology,<br/> <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
     National Taiwan University
 
@@ -71,8 +71,9 @@ Note: I am currently migrating my personal web site and this is a work-in-progre
 
 
 <h2> Select Honors </h2>
+* 2019-2021 Outstanding Young Scholar Grant, Ministry of Science and Technology, Taiwan
 * 2018 Delta Research Excellence Award
-* 2018 Jen-Min Young Scholar Chair Professorship
+* 2018 Jen-Min Distinguished Young Scholar Chair Professorship
 * 2017 NTU EECS Academic Achievement Award
 * 2015 ACM Taipei Chapter K. T. Li Young Researcher Award
 * 2014 Intel Labs Distinguished Collaborative Research Award

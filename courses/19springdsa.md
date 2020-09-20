@@ -6,6 +6,7 @@ title: 2019 Spring - CSIE 1212 - Data Structure and Algorithm
 
 This is a required course for the undergraduate students in the Department of Computer Science and Information Engineering. The course will focus on the implementation and the use of data structures and how to utilize them to solve problems.
 
+### Note: We will not accept any additional students for the semester as the number of students will be over the classroom capacity. ###
 
 ## Course Information ##
 
@@ -60,4 +61,4 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 ## Links ##
  - For most course activities and materials: [NTU COOL](https://cool.ntu.edu.tw)
  - For in-class interaction: [Zuvio](https://irs.zuvio.com.tw). 
- - If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit) by Feb 19, 23:59.
+ - We have completed the process of selecting additional students to be registered for the course. The number of students (assuming all that are qualified for registration are enrolled) will be over 160, the capacity of the current classroom. As a result, **we will no longer accept any additional student to the course for this semester**. ~~If you'd like to register for the course but not yet enrolled, complete [this form](https://docs.google.com/forms/d/15AoyWyew2q3pMP3-5izzCSecZrn-HnQb8ywbDpuUASU/edit) by Feb 19, 23:59.~~
