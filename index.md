@@ -31,6 +31,8 @@ role-tables:
 
     <p>Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
     <p>Associate Director, Learning Technology,<br/> <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
+    <p>Associate Director, <br/> <a href="http://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a></p>
+
     National Taiwan University
 
 
@@ -71,6 +73,7 @@ Note: I am currently migrating my personal web site and this is a work-in-progre
 
 
 <h2> Select Honors </h2>
+* 2020 National Taiwan University Distinguished University Service Award<br/> (for my contribution in leading the NTU COOL team to cope with the growing online teaching demand during the COVID-19 pandemic)
 * 2019-2021 Outstanding Young Scholar Grant, Ministry of Science and Technology, Taiwan
 * 2018 Delta Research Excellence Award
 * 2018 Jen-Min Distinguished Young Scholar Chair Professorship
