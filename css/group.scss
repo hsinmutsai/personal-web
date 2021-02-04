@@ -160,3 +160,18 @@ svg {
     // make the alignment just like img from bootstrap's reboot.scss
     vertical-align: middle;
 }
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #ff0000;
+}
+
+th{
+    border:1px solid #000000;
+    background-color:#ddddff;
+}
+
+td{
+    border:1px solid #000000;
+}
