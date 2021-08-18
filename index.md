@@ -32,6 +32,7 @@ role-tables:
     <p>Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
     <p>Associate Director, Learning Technology,<br/> <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
     <p>Associate Director, <br/> <a href="http://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a></p>
+    <p>Associate Director, <br/> Delta-NTU Joint Research and Development Center</p> 
 
     National Taiwan University
 
@@ -45,8 +46,8 @@ Note: I am currently migrating my personal web site and this is a work-in-progre
 
 <h2> What I do </h2>
 * __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page.
-* __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="http://www.dlc.ntu.edu.tw/online_resources-ntu-cool/">NTU COOL</a>. See our <a href="https://youtu.be/5nE1Hq4fXO8">promotion video</a>!
-* __NASA__: I lead a group of undergraduate students, called NASA (Network Administration and System Administration), to maintain the IT infrastructure in our department.
+* __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="http://www.dlc.ntu.edu.tw/online_resources-ntu-cool/">NTU COOL</a>. See a <a href="https://youtu.be/tW_Edaqv5BM">recent video</a> about us!
+* __NASA__: In 2012, I founded a team with mainly undergraduate students, called NASA (Network Administration and System Administration), to maintain the IT infrastructure in our department. Currently I am still teaching a course to train these students.
 * __NTU CSIE TRAIN__: I am helping with the department's <a href="https://train.csie.ntu.edu.tw" target="_blank">information system training program</a> opened to the public. We are in the progress of developing the blended (digital + traditional) learning curriculum. 
 
 
