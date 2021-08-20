@@ -30,8 +30,8 @@ role-tables:
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
 
     <p>Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
-    <p>Associate Director, Learning Technology,<br/> <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
-    <p>Associate Director, <br/> <a href="http://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a></p>
+    <p>Deputy Director, <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
+    <p>Associate Director, <a href="http://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a></p>
     <p>Associate Director, <br/> Delta-NTU Joint Research and Development Center</p> 
 
     National Taiwan University
