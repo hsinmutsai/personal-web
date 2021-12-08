@@ -28,24 +28,23 @@ role-tables:
              src="{{site.baseurl}}img/people/proftsai2.jpg" style="float:right;height:200px;"/>
 
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
+    <br/>
 
-    <p>Professor, <br/><a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
-    <p>Deputy Director, <a href="http://dlc.ntu.edu.tw/" target="_blank">Digital Learning Center</a></p>
-    <p>Associate Director, <a href="http://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a></p>
-    <p>Associate Director, <br/> Delta-NTU Joint Research and Development Center</p> 
+    <p>Deputy Vice President for <a href="http://www.aca.ntu.edu.tw" target="_blank">Academic Affairs</a></p> 
+    <p>Professor, <a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
+    
+    <a href="http://www.ntu.edu.tw/" target="_blank">National Taiwan University</a>
 
-    National Taiwan University
-
-
-<br/>    
 <br/> 
 <br/> 
 </div>
 
-Note: I am currently migrating my personal web site and this is a work-in-progress. Some information can still be found on my <a href="http://www.csie.ntu.edu.tw/~hsinmu/wiki/">old web site</a>.
+Note: Some information can still be found on my <a href="http://www.csie.ntu.edu.tw/~hsinmu/wiki/">old web site</a>.
 
 <h2> What I do </h2>
-* __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page.
+
+* __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page. 
+* __Industry Collaboration__: I serve as associate director in both <a href="http://iox.ntu.edu.tw/" target="_blank">__NTU IoX Center__</a> and __Delta-NTU Joint Research and Development Center__ and have ongoing research collaboration with Intel Labs and Delta Electronics.
 * __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="http://www.dlc.ntu.edu.tw/online_resources-ntu-cool/">NTU COOL</a>. See a <a href="https://youtu.be/tW_Edaqv5BM">recent video</a> about us!
 * __NASA__: In 2012, I founded a team with mainly undergraduate students, called NASA (Network Administration and System Administration), to maintain the IT infrastructure in our department. Currently I am still teaching a course to train these students.
 * __NTU CSIE TRAIN__: I am helping with the department's <a href="https://train.csie.ntu.edu.tw" target="_blank">information system training program</a> opened to the public. We are in the progress of developing the blended (digital + traditional) learning curriculum. 
