@@ -5,7 +5,7 @@ title: 2022 Spring - CSIE 2311 and CSIE 1310 - Network Administration and System
 
 This is a course designed to train the students in the Department of Computer Science and Information Engineering to become part of the technical team to perform daily network and system maintenance tasks.
 
-For more information, please refer to the posters about [NASA training plan](https://drive.google.com/file/d/19JsnU_qrG6RYxdCExJK8EaRB2eyDY06H/view?usp=sharing) and [NASA team](https://drive.google.com/file/d/1jsQxxAv6vngoX-7SKIkdvZ9538bMue3Y/view?usp=sharing)
+For more information, please refer to the posters about [NASA training plan](https://drive.google.com/file/d/19JsnU_qrG6RYxdCExJK8EaRB2eyDY06H/view?usp=sharing) and [NASA team](https://drive.google.com/file/d/1jsQxxAv6vngoX-7SKIkdvZ9538bMue3Y/view?usp=sharing).
 
 ## News ##
 - Jan. 26 - HW0 is released. Please find the information about HW0 [here](https://hackmd.io/@uqzWTXyyTk6IYTBwcPwnoA/SklJTh0aF).
@@ -31,7 +31,7 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 
 ## How to register for the course
 
-Please finish HW0 and upload your answers before the deadline.
+Please finish [HW0](https://hackmd.io/@uqzWTXyyTk6IYTBwcPwnoA/SklJTh0aF) and upload your answers before the deadline.
 
  __Deadline: 2022/02/16 (Wed.) 21:59 (UTC+8)__
 
