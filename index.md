@@ -25,13 +25,13 @@ role-tables:
 <div class="jumbotron"> 
     <!--<img src="img/people/proftsai.png" height=250 align="right"/>-->
    <img class="rounded-circle profile"          
-             src="{{site.baseurl}}img/people/proftsai2.jpg" style="float:right;height:200px;"/>
+             src="{{site.baseurl}}img/people/8602.jpg" style="float:right;height:200px;"/>
 
     <h1>Hsin-Mu (Michael) Tsai - 蔡欣穆</h1>
     <br/>
 
-    <p>Deputy Vice President for <a href="http://www.aca.ntu.edu.tw" target="_blank">Academic Affairs</a></p> 
-    <p>Professor, <a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
+    <p>Deputy Vice President for <a href="http://www.aca.ntu.edu.tw" target="_blank">Academic Affairs</a> - 副教務長</p> 
+    <p>Academic Advancement Young Chair Professor - 學術勵進青年講座,<br/> <a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
     
     <a href="http://www.ntu.edu.tw/" target="_blank">National Taiwan University</a>
 
@@ -44,11 +44,10 @@ Note: Some information can still be found on my <a href="http://www.csie.ntu.edu
 <h2> What I do </h2>
 
 * __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page. 
-* __Industry Collaboration__: I serve as associate director in both <a href="http://iox.ntu.edu.tw/" target="_blank">__NTU IoX Center__</a> and __Delta-NTU Joint Research and Development Center__ and have ongoing research collaboration with Intel Labs and Delta Electronics.
-* __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="http://www.dlc.ntu.edu.tw/online_resources-ntu-cool/">NTU COOL</a>. See a <a href="https://youtu.be/tW_Edaqv5BM">recent video</a> about us!
+* __Industry Collaboration__: I serve as associate director in <a href="http://iox.ntu.edu.tw/" target="_blank">__NTU IoX Center__</a>.
+* __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="https://www.dlc.ntu.edu.tw/ntu-cool/">NTU COOL</a>. See a <a href="https://youtu.be/tW_Edaqv5BM">video</a> about us. I am also leading the <a href="https://www.aca.ntu.edu.tw/w/aca/CIMD">Computer Information Management Division</a> to transform some of the older information systems at the Office of Academic Affairs.
 * __NASA__: In 2012, I founded a team with mainly undergraduate students, called NASA (Network Administration and System Administration), to maintain the IT infrastructure in our department. Currently I am still teaching a course to train these students.
-* __NTU CSIE TRAIN__: I am helping with the department's <a href="https://train.csie.ntu.edu.tw" target="_blank">information system training program</a> opened to the public. We are in the progress of developing the blended (digital + traditional) learning curriculum. 
-
+ 
 
 
 <section>
@@ -73,16 +72,19 @@ Note: Some information can still be found on my <a href="http://www.csie.ntu.edu
 
 
 <h2> Select Honors </h2>
-* 2020 National Taiwan University Distinguished University Service Award<br/> (for my contribution in leading the NTU COOL team to cope with the growing online teaching demand during the COVID-19 pandemic)
-* 2019-2021 Outstanding Young Scholar Grant, Ministry of Science and Technology, Taiwan
-* 2018 Delta Research Excellence Award
-* 2018 Jen-Min Distinguished Young Scholar Chair Professorship
-* 2017 NTU EECS Academic Achievement Award
-* 2015 ACM Taipei Chapter K. T. Li Young Researcher Award
-* 2014 Intel Labs Distinguished Collaborative Research Award
+* 2023 National Taiwan Univeristy Academic Advancement Young Chair Professorship (台大學術勵進青年講座教授) <br/> (Awarded to only 15 out of 2000+ full-time faculty members in NTU)
+* 2023 Young Scholar Innovation Award, Foundation for the Advancement of Outstanding Scholarship, Taiwan
+ (年輕學者創新獎, 傑出人才發展基金會)
+* 2020 National Taiwan University Distinguished University Service Award (台大校內傑出服務獎) <br/> (for my contribution in leading the NTU COOL team to cope with the growing online teaching demand during the COVID-19 pandemic)
+* 2019-2021 Outstanding Young Scholar Grant, Ministry of Science and Technology, Taiwan (科技部優秀年輕學者計畫)
+* 2018 Delta Research Excellence Award (台達傑出研究獎)
+* 2018 Jen-Min Distinguished Young Scholar Chair Professorship (仁民傑出青年學者講座)
+* 2017 NTU EECS Academic Achievement Award (電機資訊學院學術貢獻獎)
+* 2015 ACM Taipei Chapter K. T. Li Young Researcher Award (李國鼎青年研究獎)
+* 2014 Intel Labs Distinguished Collaborative Research Award 
 * 2013 Intel Labs Early Career Faculty Honor Program Awardee <br/>
 (__first__ to receive the honor outside of Europe and North America) 
-* 2013 National Taiwan University Distinguished Teaching Award <br/>
+* 2013 National Taiwan University Distinguished Teaching Award (台大教學傑出獎)<br/>
 (awarded to __1%__ of the university faculty)
 
 
