@@ -44,7 +44,7 @@ Note: Some information can still be found on my <a href="http://www.csie.ntu.edu
 <h2> What I do </h2>
 
 * __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page. 
-* __Industry Collaboration__: I serve as associate director in <a href="http://iox.ntu.edu.tw/" target="_blank">__NTU IoX Center__</a>.
+* __Industry Collaboration__: I serve as associate director in <a href="http://iox.ntu.edu.tw/" target="_blank">__NTU IoX Center__</a>. In addition, I have an ongoing research collaboration with EVA Air on applying AI on flight safety data analysis.
 * __Digital Learning__: I spent a portion of my time leading a <a href="http://www.dlc.ntu.edu.tw/tech/">team</a> at NTU's <a href="http://dlc.ntu.edu.tw/">Digital Learning Center</a> to develop the university's next-generation learning platform - <a href="https://www.dlc.ntu.edu.tw/ntu-cool/">NTU COOL</a>. See a <a href="https://youtu.be/tW_Edaqv5BM">video</a> about us. I am also leading the <a href="https://www.aca.ntu.edu.tw/w/aca/CIMD">Computer Information Management Division</a> to transform some of the older information systems at the Office of Academic Affairs.
 * __NASA__: In 2012, I founded a team with mainly undergraduate students, called NASA (Network Administration and System Administration), to maintain the IT infrastructure in our department. Currently I am still teaching a course to train these students.
  
