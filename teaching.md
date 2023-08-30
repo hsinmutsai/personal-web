@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 ---
+ - 2023 Fall - [Computer Science and Information Technology (I)](courses/23fallcsit)
  - 2023 Spring - [Network Administration and System Administration](courses/23springnasa)
  - 2022 Spring - Data Structure and Algorithm (co-taught with Prof. Hsuan-Tien Lin)
  - 2022 Spring - [Network Administration and System Administration](courses/22springnasa)
