@@ -39,8 +39,8 @@ If you were not able to register for the course, please come to the first class 
 |    5   | 10/06 | Confidential Computing                                  | [黎士瑋 Shih-Wei Li](https://shihweili.com)                  |
 |    6   | 10/13 |  Security and Privacy of Machine Learning               | [陳尚澤 Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/)|
 |    7   | 10/20 |   Security and Privacy of Machine Learning              | [陳尚澤 Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/)|
-|    8   | 10/27 |  TBD  | TBD |
-|    9   | 11/03 |  TBD  | TBD                      |
+|    8   | 10/27 |   Where We Are | [張嘉淵 Ted Chang](https://www.inm.ntu.edu.tw/zh_tw/Departmentmember/Faculty/張嘉淵-9761854) |
+|    9   | 11/03 |  Where We Go  | [張嘉淵 Ted Chang](https://www.inm.ntu.edu.tw/zh_tw/Departmentmember/Faculty/張嘉淵-9761854) |
 |   10   | 11/10 |  Information Security     | [蕭旭君 Hsu-Chun Hsiao](https://www.csie.ntu.edu.tw/~hchsiao/)            |
 |   11   | 11/17 |  Information Security     | [蕭旭君 Hsu-Chun Hsiao](https://www.csie.ntu.edu.tw/~hchsiao/)            |
 |   12   | 11/24 |  No class; University sports day    |               |
