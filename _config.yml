@@ -47,12 +47,12 @@ navigation:
   #- title: People
   #  link: /#people
   - title: Research
-    link: research.html
+    link: research
   - title: Publications
-    link: publications.html
+    link: publications
   - title: Teaching
-    link: teaching.html
+    link: teaching
   - title: Service
-    link: service.html
+    link: service
 #  - title: Code
 #    link: /code.html
