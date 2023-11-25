@@ -41,6 +41,8 @@ role-tables:
 
 Note: Some information can still be found on my <a href="http://www.csie.ntu.edu.tw/~hsinmu/wiki/">old web site</a>.
 
+__有興趣加入我的研究團隊的碩士班新生，請閱讀<a href="https://hackmd.io/@usfbmh5OQjawM_SraJJSaQ/Hkaf4HkB6" target="_blank">這個</a>。__
+
 <h2> What I do </h2>
 
 * __Research__: I enjoy designing and buidling prototypes and doing hands-on work by myself and with my students. Topics I am interested in include communications and positioning using light, sensing with mobile systems and within cars, and wireless communications and networking in general. See my research page. 
