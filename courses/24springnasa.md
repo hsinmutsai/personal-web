@@ -5,9 +5,9 @@ title: 2024 Spring - CSIE 2311 and CSIE 1310 - Network Administration and System
 
 This is a course designed to train the students in the Department of Computer Science and Information Engineering to become part of the technical team to perform daily network and system maintenance tasks.
 
-<!--For more information, please refer to the posters about [NASA training plan](https://drive.google.com/file/d/19JsnU_qrG6RYxdCExJK8EaRB2eyDY06H/view?usp=sharing) and [NASA team](https://drive.google.com/file/d/1BqaeoSF6w_uSjfVBEmuHcSbhivOqSHdX/view?usp=sharing).-->
+For more information, please refer to the posters about [NASA training plan](https://drive.google.com/file/d/19JsnU_qrG6RYxdCExJK8EaRB2eyDY06H/view?usp=sharing) and [NASA team](https://drive.google.com/file/d/1BqaeoSF6w_uSjfVBEmuHcSbhivOqSHdX/view?usp=sharing).
 
-For more information, please refer to the poster about [NASA team](https://drive.google.com/file/d/1BqaeoSF6w_uSjfVBEmuHcSbhivOqSHdX/view?usp=sharing).
+<!--For more information, please refer to the poster about [NASA team](https://drive.google.com/file/d/1BqaeoSF6w_uSjfVBEmuHcSbhivOqSHdX/view?usp=sharing).-->
 
 ## News
 
