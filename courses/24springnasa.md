@@ -40,13 +40,13 @@ Students taking the course please go to [NTU COOL](https://cool.ntu.edu.tw) to s
 Please finish [HW0](https://hackmd.io/@hyder308116/BkryHTOtp) and upload your answers before the deadline.
 If you have any questions, feel free to contact TAs.
 
- __Deadline: 2023/02/22 (Thu.) 21:59 (UTC+8)__
+ __Deadline: 2024/02/22 (Thu.) 21:59 (UTC+8)__
 
 ## Syllabus
 
 | Week   |  Date | Lecture Topic                                           | Lab                  |
 |:------:|:-----:|---------------------------------------------------------|----------------------|
-|    1   | 02/19 | Introduction to basics                                  | Network cable        |
+|    1   | 02/19 | Introduction to basics                                  | Network cable. (Note: __Please prepare bring a pair of scissors to the class.__)      |
 |    2   | 02/26 | Unix basic concept, Unix basic command, File permission | Shell scripts        |
 |    3   | 03/04 | Partitioning, LVM, filesystem, software RAID            | Partition            |
 |    4   | 03/11 | Cisco switch advanced functionality                     | Cisco Switches       |
