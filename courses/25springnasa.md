@@ -10,6 +10,8 @@ For more information, please refer to the posters about [NASA training plan](htt
 
 ## News
 
+- Jan 26. Page created. HW0 information announced.
+
 ## Course Information
 - Class time: Mondays 9:10-12:10
 - Classroom: CSIE Building R204
