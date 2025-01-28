@@ -11,6 +11,7 @@ For more information, please refer to the posters about [NASA training plan](htt
 ## News
 
 - Jan 26. Page created. HW0 information announced.
+- Jan 28. [HW0](#hw0-information) PDF updated. 
 
 ## Course Information
 - Class time: Mondays 9:10-12:10
@@ -31,13 +32,13 @@ Materials from the past years are available [here](https://www.csie.ntu.edu.tw/~
 
 ## HW0 Information
 - Announcement page: [link](https://hackmd.io/@Mqvhsb9VRYSU2scAkRqGIQ/S1MFCNBDkx?fbclid=IwY2xjawICwHxleHRuA2FlbQIxMAABHZf9_C2M_0oRf3uza48C02flNr0nToQVe4QU3oCqTIAWD8iptiXRegluww_aem_t8bxPf2z4dtesxj2f-NDAw)
-- Problem description: [PDF](https://drive.google.com/file/d/1xx64HYlnfT-mgJxG192ql7Qy30xLli3Y/view?usp=sharing)
+- Problem description: [Ver. 0128 PDF](https://drive.google.com/file/d/1nSm_2kfsV9TbEFP42h8W2gAE-rRw2qJS/view?usp=sharing) (updated 01/28)
 - Submission form: [link](https://forms.gle/mvUi94K5eN6F51py7)
 - **Deadline: 2025/02/18 (Tue.) 21:59 (UTC+8)**
 
 
 ## How to register for the course
-Please finish HW0 and upload your answers before the deadline. If you have any questions, feel free to contact TAs.
+Please finish [HW0](#hw0-information) and upload your answers before the deadline. If you have any questions, feel free to contact TAs.
 
 
 ## Syllabus (Tentative)
