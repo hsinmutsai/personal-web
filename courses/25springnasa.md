@@ -37,9 +37,10 @@ Materials from the past years are available [here](https://www.csie.ntu.edu.tw/~
 - **Deadline: 2025/02/18 (Tue.) 21:59 (UTC+8)**
 
 
-## How to register for the course
-Please finish [HW0](#hw0-information) and upload your answers before the deadline. If you have any questions, feel free to contact TAs.
+## How to register / apply for auditing for the course
 
+- Please finish [HW0](#hw0-information) and upload your answers before the deadline. If you have any questions, feel free to contact TAs.
+- Fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSdVn7WA53nP958kaw3jrPvfWp386b8p4yLSfivfb7oGWNpaaw/viewform?usp=header) to apply for auditing.
 
 ## Syllabus (Tentative)
 
