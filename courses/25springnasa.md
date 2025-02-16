@@ -12,6 +12,7 @@ For more information, please refer to the posters about [NASA training plan](htt
 
 - Jan 26. Page created. HW0 information announced.
 - Jan 28. [HW0](#hw0-information) PDF updated. 
+- Feb 16. **Please remember to bring a pair of scissors to the first class on Monday, February 17, 9:00 AM. You will need it in Lab 0.**
 
 ## Course Information
 - Class time: Mondays 9:10-12:10
