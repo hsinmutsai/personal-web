@@ -40,7 +40,7 @@ Please use this [form link](https://docs.google.com/forms/d/e/1FAIpQLSeBDApuW_S8
 |   5    | 03/21 | Application of AI Technology in Information Technology Education     | [張傑帆 Jie-Fan Chang](https://homepage.ntu.edu.tw/~jfanc/)                   |
 |   6    | 03/28 | FinTech and Blockchain     | [廖世偉 Shih-Wei Liao](http://www.csie.ntu.edu.tw/~liao/)               |
 |   7    | 04/04 | No Class; Qingming Festival          | []()                                       |
-|   8    | 04/11 | System AI     | [廖世偉 Shih-Wei Liaog](http://www.csie.ntu.edu.tw/~liao/)        |
+|   8    | 04/11 | System AI     | [廖世偉 Shih-Wei Liao](http://www.csie.ntu.edu.tw/~liao/)        |
 |   9    | 04/18 |    Efficient and Trustworthy AI   | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
 |   10   | 04/25 |    Quantum Computing  | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
 |   11   | 05/02 |  Human-to-X Spatial Proxemics based on Multi-modal Sensing Data      | [巫芳璟 Fang-Jing Wu](http://www.csie.ntu.edu.tw/~fangjing/)          |
