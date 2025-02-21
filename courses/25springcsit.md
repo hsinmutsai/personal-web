@@ -36,13 +36,13 @@ Please use this [form link](https://docs.google.com/forms/d/e/1FAIpQLSeBDApuW_S8
 |   1    | 02/21 |   Course Introduction / Data Driven Anomaly Detection/Prediction for IoT   | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/site/) / [林風 Phone Lin](http://www.csie.ntu.edu.tw/~plin/)                               |
 |   2    | 02/28 | No Class; 228 Peace Memorial Day   | []()                               |
 |   3    | 03/07 | The Impacts of ML/AI on Digital Communications: Information Theoretic Aspects     | [吳家麟 Ja-Ling Wu](https://www.cmlab.csie.ntu.edu.tw/cml/dsp/prof-wu/prof-wu.html)                             |
-|   4    | 03/14 |      | [張傑帆 Jie-Fan Chang](https://homepage.ntu.edu.tw/~jfanc/)           |
-|   5    | 03/21 |      | [張傑帆 Jie-Fan Chang](https://homepage.ntu.edu.tw/~jfanc/)                   |
-|   6    | 03/28 |      | [廖世偉 Shih-Wei Liao](http://www.csie.ntu.edu.tw/~liao/)               |
+|   4    | 03/14 | Application of AI Technology in Information Technology Education     | [張傑帆 Jie-Fan Chang](https://homepage.ntu.edu.tw/~jfanc/)           |
+|   5    | 03/21 | Application of AI Technology in Information Technology Education     | [張傑帆 Jie-Fan Chang](https://homepage.ntu.edu.tw/~jfanc/)                   |
+|   6    | 03/28 | FinTech and Blockchain     | [廖世偉 Shih-Wei Liao](http://www.csie.ntu.edu.tw/~liao/)               |
 |   7    | 04/04 | No Class; Qingming Festival          | []()                                       |
-|   8    | 04/11 |      | [廖世偉 Shih-Wei Liaog](http://www.csie.ntu.edu.tw/~liao/)        |
-|   9    | 04/18 |      | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
-|   10   | 04/25 |      | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
+|   8    | 04/11 | System AI     | [廖世偉 Shih-Wei Liaog](http://www.csie.ntu.edu.tw/~liao/)        |
+|   9    | 04/18 |    Efficient and Trustworthy AI   | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
+|   10   | 04/25 |    Quantum Computing  | [洪士灝 Shih-Hao Hung](http://www.csie.ntu.edu.tw/~hungsh/) |
 |   11   | 05/02 |  Human-to-X Spatial Proxemics based on Multi-modal Sensing Data      | [巫芳璟 Fang-Jing Wu](http://www.csie.ntu.edu.tw/~fangjing/)          |
 |   12   | 05/09 |  Human-to-X Spatial Proxemics based on Multi-modal Sensing Data    | [巫芳璟 Fang-Jing Wu](http://www.csie.ntu.edu.tw/~fangjing/)       |
 |   13   | 05/16 |   Algorithms Beyond Worst-Case Optimality   | [呂學一 Hsueh-I Lu](http://www.csie.ntu.edu.tw/~hil/)            |
