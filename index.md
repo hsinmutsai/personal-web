@@ -32,7 +32,9 @@ role-tables:
 
 <p>Deputy Vice President for <a href="http://www.aca.ntu.edu.tw" target="_blank">Academic Affairs</a> - 副教務長</p> 
 
-<p>Director, NTU IoX Center<a href="http://www.aca.ntu.edu.tw" target="_blank"></a> - 臺大智慧聯網研究中心 主任</p> 
+<p>Director, <a href="https://www.dlc.ntu.edu.tw/" target="_blank">Center for Teaching and Learning Development, Digital Learning Center</a>, and <a href="https://aaoffice.ntu.edu.tw/" target="_blank">Academic Advising Office</a> - 教學發展中心/數位學習中心/學習規劃辦公室 主任</p>
+
+<p>Director, <a href="https://iox.ntu.edu.tw/" target="_blank">NTU IoX Center</a> - 臺大智慧聯網研究中心 主任</p> 
 
 <p>Academic Advancement Young Chair Professor - 學術勵進青年講座,<br/> <a href="http://www.csie.ntu.edu.tw/" target="_blank"> Computer Science and Information Engineering</a> </p>
     
