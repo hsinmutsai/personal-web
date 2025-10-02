@@ -37,9 +37,9 @@ Please use this [form link](https://docs.google.com/forms/d/e/1FAIpQLSd-LG-xZAQJ
 |   2    | 09/12 | 	Introduction to computer systems and security research - security   | [黎士瑋 Shih-Wei Li](https://www.csie.ntu.edu.tw/~shihwei/)    |
 |   3    | 09/19 |  Vehicular Networks    | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/)           |
 |   4    | 09/26 |  Light Communications and Positioning    | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/)           |
-|   5    | 10/03 |   TBD   | 陳維超 Wei-Chao Chen           |
+|   5    | 10/03 |   GPU Architecture   | [陳維超 Wei-Chao Chen](https://www.csie.ntu.edu.tw/zh_tw/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/%E9%99%B3%E7%B6%AD%E8%B6%85-Wei-Chao-Chen-87961006)           |
 |   6    | 10/10 |    No Class; Taiwan National Day   |          |
-|   7    | 10/17 |   TBD   | 陳維超 Wei-Chao Chen           |
+|   7    | 10/17 |   Cryptography for AI   | [陳維超 Wei-Chao Chen](https://www.csie.ntu.edu.tw/zh_tw/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/%E9%99%B3%E7%B6%AD%E8%B6%85-Wei-Chao-Chen-87961006)         |
 |   8    | 10/24 |    No Class; Taiwan Restoration Day   |         |
 |   9    | 10/31 |   Trustworthy AI   | [羅紹元 Shao-Yuan Lo](https://shaoyuanlo.github.io) |
 |   10   | 11/07 |   Trustworthy AI   | [羅紹元 Shao-Yuan Lo](https://shaoyuanlo.github.io) |
