@@ -39,11 +39,11 @@ This year, we will provide the registration codes <!--directly via email--> base
 |   4    | 03/20 |  TBD   | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
 |   5    | 03/27 |  Machine Learning Theory   | [李彥寰 Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) |
 |   6    | 04/03 |  No Class; Children's Day         |           |
-|   7    | 04/10 |  TBD   | [林靖茹 Ching-Ju Lin](https://www.csie.ntu.edu.tw/~katelin) |
-|   8    | 04/17 |  TBD   | [林靖茹 Ching-Ju Lin](https://www.csie.ntu.edu.tw/~katelin) |
-|   9    | 04/24 |  TBD   | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
+|   7    | 04/10 |  Distributed Learning   | [林靖茹 Ching-Ju Lin](https://www.csie.ntu.edu.tw/~katelin) |
+|   8    | 04/17 |  Sketch-based Network Measurement   | [林靖茹 Ching-Ju Lin](https://www.csie.ntu.edu.tw/~katelin) |
+|   9    | 04/24 |  AI Agents - the opportunity and risk   | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
 |   10   | 05/01 |  No Class; The Labour Day        |           |
-|   11   | 05/08 |  TBD | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
+|   11   | 05/08 |  AI Agents - the opportunity and risk | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
 |   12   | 05/15 |  TBD   | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
 |   13   | 05/22 |  Machine Learning Theory   | [李彥寰 Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) |
 |   14   | 05/29 |  Connected and Autonomous Vehicles  | [林忠緯 Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) |

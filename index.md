@@ -46,7 +46,7 @@ role-tables:
 
 Note: Some information can still be found on my <a href="http://www.csie.ntu.edu.tw/~hsinmu/wiki/">old web site</a>.
 
-__有興趣加入我的研究團隊的碩士班新生，請閱讀<a href="https://hackmd.io/@usfbmh5OQjawM_SraJJSaQ/Hkaf4HkB6" target="_blank">這個</a>。__
+__有興趣加入我的研究團隊的碩士班新生，請閱讀<a href="https://hackmd.io/@usfbmh5OQjawM_SraJJSaQ/SJGtGmHWZg" target="_blank">這個</a>。__
 
 <h2> What I do </h2>
 
