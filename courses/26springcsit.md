@@ -36,7 +36,7 @@ This year, we will provide the registration codes <!--directly via email--> base
 |   1    | 02/27 |  No Class; Peace Memorial Day        |                                |
 |   2    | 03/06 | 	Visible Light Communications and Positioning   | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/) |
 |   3    | 03/13 |  AI Applications   | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/) |
-|   4    | 03/20 |  TBD   | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
+|   4    | 03/20 |  從研究到應用：智慧機器人如何改變世界   | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
 |   5    | 03/27 |  Machine Learning Theory   | [李彥寰 Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) |
 |   6    | 04/03 |  No Class; Children's Day         |           |
 |   7    | 04/10 |  Distributed Learning   | [林靖茹 Ching-Ju Lin](https://www.csie.ntu.edu.tw/~katelin) |
@@ -44,7 +44,7 @@ This year, we will provide the registration codes <!--directly via email--> base
 |   9    | 04/24 |  AI Agents - the opportunity and risk   | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
 |   10   | 05/01 |  No Class; The Labour Day        |           |
 |   11   | 05/08 |  AI Agents - the opportunity and risk | [林守德 Shou-De Lin](http://www.csie.ntu.edu.tw/~sdlin/) |
-|   12   | 05/15 |  TBD   | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
+|   12   | 05/15 |   AI賦能的智慧健康照護 | [傅立成 Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) |
 |   13   | 05/22 |  Machine Learning Theory   | [李彥寰 Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) |
 |   14   | 05/29 |  Connected and Autonomous Vehicles  | [林忠緯 Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) |
 |   15   | 06/05 |  Model-Based Design of Cyper-Physical Systems   | [林忠緯 Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) |
