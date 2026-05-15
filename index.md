@@ -79,6 +79,7 @@ __\[2026/03/09\] 有興趣加入我的研究團隊的碩士班新生，請閱讀
 
 
 <h2> Select Honors </h2>
+* 2026 National Taiwan University Distinguished Academic Advisor Award (台大傑出導師)
 * 2023 National Taiwan Univeristy Academic Advancement Young Chair Professorship (台大學術勵進青年講座教授) <br/> (Awarded to only 15 out of 2000+ full-time faculty members in NTU)
 * 2023 Young Scholar Innovation Award, Foundation for the Advancement of Outstanding Scholarship, Taiwan
  (年輕學者創新獎, 傑出人才發展基金會)
