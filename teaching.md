@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 ---
+ - 2026 Fall - [Computer Science and Information Technology (I)](courses/26fallcsit)
  - 2026 Spring - [Computer Science and Information Technology (II)](courses/26springcsit)
  - 2025 Fall - [Computer Science and Information Technology (I)](courses/25fallcsit)
  - 2025 Fall - [Network Administration and System Administration](courses/25fallnasa)
