@@ -35,7 +35,7 @@ If you were not able to register for the course, a registration form will be pro
 |   1    | 09/11 |  Course Introduction; Building Ultimate Reality   | [蔡欣穆 Hsin-Mu Tsai](http://www.csie.ntu.edu.tw/~hsinmu/), [鄭龍磻 Lung-Pan Cheng](https://www.lungpancheng.tw/) |
 |   2    | 09/18 |  Building Ultimate Reality   | [鄭龍磻 Lung-Pan Cheng](https://www.lungpancheng.tw/) |
 |   3    | 09/25 |  No Class; Mid-Autumn Festival        |                                |
-|   4    | 10/02 |  TBD   | [李明穗 Ming-Sui Lee](https://www.csie.ntu.edu.tw/~mslee/) |
+|   4    | 10/02 |  你我視界中看不見的魔法 - 淺談數位影像處理   | [李明穗 Ming-Sui Lee](https://www.csie.ntu.edu.tw/~mslee/) |
 |   5    | 10/09 |  No Class; National Day Holiday        |           |
 |   6    | 10/16 |  TBD   | [徐宏民 Winston Hsu](https://winstonhsu.info/) |
 |   7    | 10/23 |  Learning with Structure: Geometry, Symmetry, and Representation in Modern AI   | [王士欣 Shih-Hsin Wang](https://shihhsinwang0214.github.io/personal_website/) |
