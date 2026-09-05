@@ -37,7 +37,7 @@ If you were not able to register for the course, a registration form will be pro
 |   3    | 09/25 |  No Class; Mid-Autumn Festival        |                                |
 |   4    | 10/02 |  你我視界中看不見的魔法 - 淺談數位影像處理   | [李明穗 Ming-Sui Lee](https://www.csie.ntu.edu.tw/~mslee/) |
 |   5    | 10/09 |  No Class; National Day Holiday        |           |
-|   6    | 10/16 |  TBD   | [徐宏民 Winston Hsu](https://winstonhsu.info/) |
+|   6    | 10/16 |  Physical AI: Robots, Learning, and the Real World   | [徐宏民 Winston Hsu](https://winstonhsu.info/) |
 |   7    | 10/23 |  Learning with Structure: Geometry, Symmetry, and Representation in Modern AI   | [王士欣 Shih-Hsin Wang](https://shihhsinwang0214.github.io/personal_website/) |
 |   8    | 10/30 |  Generating with Structure: Diffusion, Flow, and Test-Time Control   | [王士欣 Shih-Hsin Wang](https://shihhsinwang0214.github.io/personal_website/) |
 |   9    | 11/06 |  Advanced Bayesian optimization for supporting creativity activities   | [廖以圻 Yi-Chi Liao](https://yichiliao.com/) |
